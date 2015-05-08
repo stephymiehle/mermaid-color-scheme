@@ -1,4 +1,6 @@
 # Mermaid Color Scheme
+![Screenshot in Sublime Text] (https://github.com/blindingstars/mermaid-color-scheme/blob/master/screenshot.png)
+
 Color scheme for Sublime Text and HexChat
 
 Admittedly, this is a totally personal color scheme and I don't expect it to perfectly fit the needs of others, but just in case, enjoy!
