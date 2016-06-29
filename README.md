@@ -1,3 +1,7 @@
+# Unmaintained!
+
+I've moved on from HexChat to Textual and have created a [new color scheme](https://github.com/blindingstars/Riptide) there. Leaving this repo here for preservation, but it will not be receiving updates.
+
 # Mermaid Color Scheme
 ![Screenshot in Sublime Text] (https://github.com/blindingstars/mermaid-color-scheme/blob/master/screenshot.png)
 
